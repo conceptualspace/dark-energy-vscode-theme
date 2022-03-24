@@ -1,10 +1,10 @@
-#### D A R K . E N E R G Y
+#### D A R K E N E R G Y
 
-Minimalist Color Theme for VSCode
+minimalist color theme for vscode
 
 ![Screenshot](images/screenshot.png)
 
-The font above is the free and open font [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript). An alternative open font I also recommend is [DejaVus Sans Mono](https://dejavu-fonts.github.io)
+the font used above is the free and open font [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript). a good alternative without italics is [DejaVus Sans Mono](https://dejavu-fonts.github.io)
 
 #### settings.json
 

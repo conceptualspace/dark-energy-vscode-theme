@@ -2,7 +2,7 @@
     "name": "dark-energy",
     "displayName": "Dark Energy",
     "description": "minimalist dark theme for vscode",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "conceptualspace",
     "repository": {
         "type": "git",

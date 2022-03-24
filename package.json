@@ -2,11 +2,24 @@
     "name": "dark-energy",
     "displayName": "Dark Energy",
     "description": "minimalist dark theme for vscode",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "conceptualspace",
     "repository": {
         "type": "git",
         "url": "https://github.com/conceptualspace/dark-energy-vscode-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "minimalist",
+        "minimal",
+        "low contrast",
+        "night",
+        "darkenergy",
+        "dark energy"
+    ],
+    "scripts": {
+        "publish": "vsce publish"
     },
     "engines": {
         "vscode": "^1.65.0"

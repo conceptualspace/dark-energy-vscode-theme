@@ -6,13 +6,21 @@ minimalist color theme for vscode
 
 the font used above is the free and open font [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript). a good alternative without italics is [DejaVus Sans Mono](https://dejavu-fonts.github.io)
 
-#### settings.json
+#### my settings.json
 
 ```
-"editor.fontFamily": "Fira Code iScript",
-"editor.fontSize": 15
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.fontFamily": "Fira Code iScript",
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.size": "fill",
+    "editor.renderWhitespace": "none",
+    "editor.scrollbar.verticalScrollbarSize": 8,
+    "scm.diffDecorationsGutterWidth": 5,
+    "window.titleBarStyle": "custom"
+}
 ```
 
 #### notes
 
-- Designed primarily for Javascript / Typescript. YMMV
+designed primarily for javascript and typescript ; YMMV

@@ -1,6 +1,8 @@
 # Dark Energy
 
-Color Theme for VSCode
+Minimalist Color Theme for VSCode
+
+![Screenshot](images/screenshot.png)
 
 ## Recommended Editor Settings:
 
